@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="245759" started-at="2018-03-10T16:47:04Z" finished-at="2018-03-10T16:51:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="245759" started-at="2018-03-10T16:47:04Z" finished-at="2018-03-10T16:51:09Z">
+      <class name="com.fbook.testclasses.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.fbook.testclasses.LoginPageTest@505305]" name="setup" is-config="true" duration-ms="200710" started-at="2018-03-10T16:47:04Z" finished-at="2018-03-10T16:50:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginpagetitle()[pri:1, instance:com.fbook.testclasses.LoginPageTest@505305]" name="loginpagetitle" duration-ms="121" started-at="2018-03-10T16:50:25Z" finished-at="2018-03-10T16:50:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpagetitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.fbook.testclasses.LoginPageTest@505305]" name="tearDown" is-config="true" duration-ms="1131" started-at="2018-03-10T16:50:25Z" finished-at="2018-03-10T16:50:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.fbook.testclasses.LoginPageTest@505305]" name="setup" is-config="true" duration-ms="27354" started-at="2018-03-10T16:50:26Z" finished-at="2018-03-10T16:50:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:2, instance:com.fbook.testclasses.LoginPageTest@505305]" name="loginTest" duration-ms="5153" started-at="2018-03-10T16:50:54Z" finished-at="2018-03-10T16:50:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.fbook.testclasses.LoginPageTest@505305]" name="tearDown" is-config="true" duration-ms="10669" started-at="2018-03-10T16:50:59Z" finished-at="2018-03-10T16:51:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.fbook.testclasses.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
